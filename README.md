@@ -8,7 +8,7 @@ Live Site URL: [shopping-cart-js](https://shopping-cart-js-c6c13.web.app/)
 ## Built with
 
 - HTML
-- CSS
+- CSS (Tailwind)
 - Javacript
 
 
