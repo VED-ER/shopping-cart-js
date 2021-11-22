@@ -20,6 +20,7 @@ Live Site URL: [shopping-cart-js](https://shopping-cart-js-c6c13.web.app/)
 - Cart is saved when page is refreshed
 
 ## Screenshot
+![Store 11-22-2021 8-37-31 PM](https://user-images.githubusercontent.com/92994473/142927201-72542ed7-8037-4d11-9e04-9bcd6e1366d3.png)
 
 
 
